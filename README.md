@@ -8,6 +8,23 @@
 
 ---
 
+
+## 数学命题与验证
+
+感应-内容对偶的数学形式化与全部白盒验证实验，见姊妹仓库：
+
+**https://github.com/0099hetingxi/baiheyanzheng-2x2**（码云镜像：gitee.com/the-doctrine-of-the-way/baiheyanzheng-2x2）
+
+| 文档 | 内容 |
+|---|---|
+| `induction_content_duality_axioms.md` | 公理合同（命题 1/2、窄门公理 T3'''、v1.0→v1.3 演变） |
+| `induction_content_duality_summary.md` | 完整研究总结（3 立 / 4 否 / 任务依赖律） |
+| `白盒验证2×2的仂庸解释.md` | 用中和道化论（仂庸）解释全部验证 |
+| `文献核对报告.md` | 学术现状核对（2×2 联合 + Fisher 拉回为真空区） |
+| `experiment_report*.md` / `exp5_验证报告.md` | 五轮实验报告 |
+| `verify_duality.py` / `exp1–exp8` + `runner*.sh` | 全部可复现脚本 |
+| `results/` | 全部数据与图 |
+
 # Zhonghe Daohua Lun — Mathematical Forms
 
 中文：中和道化论数学形式
