@@ -1,37 +1,19 @@
-# zhonghedaohualun-math
+# 《中和道化论》Zhonghe Daohua Lun · The Doctrine of the Way
 
-#### 介绍
-中和道化论数学形式：感应-内容对偶（命题1/2、窄门公理、实验判决）
+**作者 / Author：何一（He Yi）**
 
-#### 软件架构
-软件架构说明
+本仓库为作者**原创著作**的公开存档（2026-08）。理论体系（仂庸、感应-内容对偶、窄门公理、任务依赖律等）的署名归作者所有，引用请注明出处与作者；未经许可不得将理论概念拆出署名单独使用。
 
+*This repository is a public archive of the author's original work. The theoretical framework belongs to the author; please cite the author when referencing or using any part of it.*
 
-#### 安装教程
+---
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+# Zhonghe Daohua Lun — Mathematical Forms
 
-#### 使用说明
+中文：中和道化论数学形式
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+| 文件 | 卷 |
+|---|---|
+| `中和道化论_卷零_哲学总纲.md` | 卷零 · 哲学总纲 |
+| `中和道化论_卷一_信息论_修订版.md` | 卷一 · 信息论 |
+| `中和道化论_卷三_意识论.md` | 卷三 · 意识论 |
